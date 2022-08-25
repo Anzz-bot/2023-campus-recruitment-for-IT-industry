@@ -6,11 +6,7 @@
 
 # 提前批（最上方最新）
 
-## 联想中国
 
-
-
-[联想中国2023校园招聘全面启动！ (qq.com)](https://mp.weixin.qq.com/s/0Wdou6EiUfrD0e0KPEULVg)
 
 ## NVIDIA
 
@@ -31,6 +27,7 @@
 ## 字节跳动
 
 [字节跳动 2023 校园招聘研发提前批正式启动！ (qq.com)](https://mp.weixin.qq.com/s/UIImrY1kmb9eQ2z-xYHRwA)
+
 
 
 ## 巨人网络
