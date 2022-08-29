@@ -8,13 +8,7 @@
 
 
 
-## NVIDIA
 
-[NVIDIA 2023校园招聘现已开启！ (qq.com)](https://mp.weixin.qq.com/s/eGN0aDoPc9WZ-_IwdZEGUw)
-
-## 百度
-
-[百度2023届校园招聘正式启动！ (qq.com)](https://mp.weixin.qq.com/s/jYknxjBSLmRzgS3ralz7hw)
 
 ## 中国电信天翼云
 
