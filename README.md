@@ -78,13 +78,6 @@
 
 
 
-## 用友
-
-[用友2023届校园招聘高潜批次正式启动 (qq.com)](https://mp.weixin.qq.com/s/1xU2DI7YWAvR7JcUpIRq6Q)
-
-官网：https://career.yonyou.com/SU61108d5b0dcad4106ff62e80/pb/school.html
-
-![img](https://test1.jsdelivr.net/gh/CARLOSGP2021/myFigures/img/202207142157290.png)
 
 
 
